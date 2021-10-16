@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img alt="Funcionamento da aplicação" src="https://github.com/VitoriaFelix/listaTarefas/blob/main/src/assets/gif.gif" width="100%" height="20%">
+  <img alt="Funcionamento da aplicação" src="https://github.com/VitoriaFelix/listaTarefas/blob/main/assets/gif.gif" width="100%" height="20%">
 </p>
 
 
